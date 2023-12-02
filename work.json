@@ -8,17 +8,17 @@
     {"id": "Viral Spiral", "group": 1}
   ],
   "links": [
-    {"source": "Frondescence", "target": "COVID Bubbles", "value": 5},
-    {"source": "Frondescence", "target": "Grasping the Grid", "value": 5},
-    {"source": "Frondescence", "target": "Viral Spiral", "value": 5},
-    {"source": "Frondescence", "target": "Emergent Type", "value":5},
-    {"source": "Frondescence", "target": "Windows of Light", "value":5},
+    {"source": "Frondescence", "target": "COVID Bubbles", "value": 10},
+    {"source": "Frondescence", "target": "Grasping the Grid", "value": 10},
+    {"source": "Frondescence", "target": "Viral Spiral", "value": 10},
+    {"source": "Frondescence", "target": "Emergent Type", "value":10},
+    {"source": "Frondescence", "target": "Windows of Light", "value":10},
     {"source": "COVID Bubbles", "target": "Viral Spiral", "value": 8},
     {"source": "COVID Bubbles", "target": "Grasping the Grid", "value": 8},
     {"source": "COVID Bubbles", "target": "Emergent Type", "value": 8},
     {"source": "COVID Bubbles", "target": "Windows of Light", "value": 8},
     {"source": "Windows of Light", "target": "Emergent Type", "value": 5},
     {"source": "Windows of Light", "target": "Viral Spiral", "value": 8},
-    {"source": "Viral Spiral", "target": "Grasping the Grid", "value": 5}
+    {"source": "Viral Spiral", "target": "Grasping the Grid", "value": 10}
   ]
 }
