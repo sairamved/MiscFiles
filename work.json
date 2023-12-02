@@ -1,10 +1,10 @@
 {
   "nodes": [
     {"id": "Frondescence", "group": 1},
-    {"id": "Windows of Light", "group": 2},
+    {"id": "Windows of Light", "group": 1},
     {"id": "Grasping the Grid", "group": 1},
     {"id": "COVID Bubbles", "group": 1},
-    {"id": "Emergent Type", "group": 2},
+    {"id": "Emergent Type", "group": 1},
     {"id": "Viral Spiral", "group": 1}
   ],
   "links": [
