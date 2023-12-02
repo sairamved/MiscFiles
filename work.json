@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    {"id": "Frondescence", "group": 1},
+    {"id": "Windows of Light", "group": 2},
+    {"id": "Grasping the Grid", "group": 1},
+    {"id": "COVID Bubbles", "group": 1},
+    {"id": "Emergent Type", "group": 2},
+    {"id": "Viral Spiral", "group": 1}
+  ],
+  "links": [
+    {"source": "Frondescence", "target": "COVID Bubbles", "value": 1},
+    {"source": "Frondescence", "target": "Grasping the Grid", "value": 1},
+    {"source": "Frondescence", "target": "Viral Spiral", "value": 5}
+  ]
+}
