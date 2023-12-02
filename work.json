@@ -14,6 +14,8 @@
     {"source": "Frondescence", "target": "Emergent Type", "value":5},
     {"source": "COVID Bubbles", "target": "Viral Spiral", "value": 8},
     {"source": "COVID Bubbles", "target": "Grasping the Grid", "value": 8},
-    {"source": "COVID Bubbles", "target": "Emergent Type", "value": 8}
+    {"source": "COVID Bubbles", "target": "Emergent Type", "value": 8},
+    {"source": "Windows of Light", "target": "Emergent Type", "value": 5},
+    {"source": "Windows of Light", "target": "Viral Spiral", "value": 8}
   ]
 }
