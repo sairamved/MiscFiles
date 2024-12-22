@@ -1,11 +1,11 @@
 {
   "nodes": [
-    {"id": "Frondescence", "group": 1, "link": "https://www.sairamved.com/frondescence"},
-    {"id": "Windows of Light", "group": 1},
-    {"id": "Grasping the Grid", "group": 1, "link": "https://www.sairamved.com/grasping-the-grid"},
-    {"id": "COVID Bubbles", "group": 1},
-    {"id": "Emergent Type", "group": 1},
-    {"id": "Viral Spiral", "group": 1}
+    {"id": "Frondescence", "group": 1, "link": "https://www.sairamved.com/work/frondescence"},
+    {"id": "Windows of Light", "group": 1, "link": "https://www.sairamved.com/work/windowsoflight"},
+    {"id": "Grasping the Grid", "group": 1, "link": "https://www.sairamved.com/work/grasping-the-grid"},
+    {"id": "COVID Bubbles", "group": 1, "link": "https://www.sairamved.com/work/covidbubbles"},
+    {"id": "Emergent Type", "group": 1, "link": "https://www.sairamved.com/work/emergenttype"},
+    {"id": "Viral Spiral", "group": 1, "link": "https://www.sairamved.com/work/viralspiral"}
   ],
   "links": [
     {"source": "Frondescence", "target": "COVID Bubbles", "value": 10},
