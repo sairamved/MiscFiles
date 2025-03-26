@@ -1,11 +1,11 @@
 {
   "nodes": [
-    {"id": "Frondescence", "group": 1, "link": "https://www.sairamved.com/frondescence", "image": "https://static.wixstatic.com/media/d9647a_0261115543e843b693b12560981b7f0a~mv2.gif"},
-    {"id": "Windows of Light", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_89f92228d48d4cafb38f3004095d9ce5~mv2.png"},
-    {"id": "Grasping the Grid", "group": 1, "link": "https://www.sairamved.com/grasping-the-grid", "image": "https://static.wixstatic.com/media/d9647a_ccf2a434455b4b8e9d9bd1db5849761c~mv2.jpg"},
-    {"id": "COVID Bubbles", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_6fe74ddeeb504fd8af36fc479e3ebb00~mv2.png"},
-    {"id": "Breaking Point: Human Population", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_b81d898a3fef48cbacca658e5572053b~mv2.gif"},
-    {"id": "Viral Spiral", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_95b6aace63ad458cbaa86aa3abda0df6~mv2.png"}
+    {"id": "Frondescence", "group": 1, "link": "https://www.sairamved.com/work/frondescence", "image": "https://static.wixstatic.com/media/d9647a_0261115543e843b693b12560981b7f0a~mv2.gif"},
+    {"id": "Windows of Light", "group": 1, "link": "https://www.sairamved.com/work/windowsoflight", "image": "https://static.wixstatic.com/media/d9647a_89f92228d48d4cafb38f3004095d9ce5~mv2.png"},
+    {"id": "Grasping the Grid", "group": 1, "link": "https://www.sairamved.com/work/grasping-the-grid", "image": "https://static.wixstatic.com/media/d9647a_ccf2a434455b4b8e9d9bd1db5849761c~mv2.jpg"},
+    {"id": "COVID Bubbles", "group": 1, "link": "https://www.sairamved.com/work/covidbubbles", "image": "https://static.wixstatic.com/media/d9647a_6fe74ddeeb504fd8af36fc479e3ebb00~mv2.png"},
+    {"id": "Breaking Point: Human Population", "link": "https://www.sairamved.com/work/breakingpoint", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_b81d898a3fef48cbacca658e5572053b~mv2.gif"},
+    {"id": "Viral Spiral", "group": 1, "link": "https://www.sairamved.com/work/viralspiral", "image": "https://static.wixstatic.com/media/d9647a_95b6aace63ad458cbaa86aa3abda0df6~mv2.png"}
   ],
   "links": [
     {"source": "Frondescence", "target": "COVID Bubbles", "value": 10},
