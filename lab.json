@@ -9,8 +9,8 @@
   "links": [
     {"source": "Genuary", "target": "Emergent Type", "value": 10},
     {"source": "Genuary", "target": "Ginger Resolution Clock", "value": 10},
-    {"source": "Genuary", "target": "36 Days of Type", "value":10},
-    {"source": "Genuary", "target": "Boroughs Illuminated", "value":10},
+    {"source": "Genuary", "target": "36 Days of Type", "value": 10},
+    {"source": "Genuary", "target": "Boroughs Illuminated", "value": 10},
     {"source": "Emergent Type", "target": "Ginger Resolution Clock", "value": 8},
     {"source": "Emergent Type", "target": "36 Days of Type", "value": 8},
     {"source": "Emergent Type", "target": "Boroughs Illuminated", "value": 8},
