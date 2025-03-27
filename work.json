@@ -9,12 +9,9 @@
     {"id": "Seen-Unseen Symposium", "group": 1, "link": "https://www.sairamved.com/work/seen-unseen", "image": "https://static.wixstatic.com/media/d9647a_ce930d22ee224aca9992f5a788a845f7~mv2.gif"}
   ],
   "links": [
-    {"source": "Frondescence", "target": "COVID Bubbles", "value": 10},
     {"source": "Frondescence", "target": "Grasping the Grid", "value": 10},
-    {"source": "Frondescence", "target": "Viral Spiral", "value": 10},
     {"source": "Frondescence", "target": "Breaking Point: Human Population", "value":10},
     {"source": "Frondescence", "target": "Windows of Light", "value":10},
-    {"source": "COVID Bubbles", "target": "Viral Spiral", "value": 8},
     {"source": "COVID Bubbles", "target": "Grasping the Grid", "value": 8},
     {"source": "COVID Bubbles", "target": "Breaking Point: Human Population", "value": 8},
     {"source": "COVID Bubbles", "target": "Windows of Light", "value": 8},
