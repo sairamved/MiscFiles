@@ -7,10 +7,6 @@
     {"id": "36 Days of Type", "link": "https://www.sairamved.com/lab/36dot", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_8db4697010bc45c58be441acb6e6d735~mv2.png"}
   ],
   "links": [
-    {"source": "Genuary", "target": "Emergent Type", "value": 20},
-    {"source": "Genuary", "target": "Ginger Resolution Clock", "value": 40},
-    {"source": "Genuary", "target": "36 Days of Type", "value": 20},
-    {"source": "Emergent Type", "target": "Ginger Resolution Clock", "value": 10},
-    {"source": "Emergent Type", "target": "36 Days of Type", "value": 10}
+    {"source": "Genuary", "target": "Emergent Type", "value": 20}
   ]
 }
