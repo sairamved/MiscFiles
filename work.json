@@ -5,7 +5,8 @@
     {"id": "Grasping the Grid", "group": 1, "link": "https://www.sairamved.com/work/grasping-the-grid", "image": "https://static.wixstatic.com/media/d9647a_ccf2a434455b4b8e9d9bd1db5849761c~mv2.jpg"},
     {"id": "COVID Bubbles", "group": 1, "link": "https://www.sairamved.com/work/covidbubbles", "image": "https://static.wixstatic.com/media/d9647a_6fe74ddeeb504fd8af36fc479e3ebb00~mv2.png"},
     {"id": "Breaking Point: Human Population", "link": "https://www.sairamved.com/work/breakingpoint", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_b81d898a3fef48cbacca658e5572053b~mv2.gif"},
-    {"id": "Viral Spiral", "group": 1, "link": "https://www.sairamved.com/work/viralspiral", "image": "https://static.wixstatic.com/media/d9647a_95b6aace63ad458cbaa86aa3abda0df6~mv2.png"}
+    {"id": "Viral Spiral", "group": 1, "link": "https://www.sairamved.com/work/viralspiral", "image": "https://static.wixstatic.com/media/d9647a_95b6aace63ad458cbaa86aa3abda0df6~mv2.png"},
+    {"id": "Seen-Unseen Symposium", "group": 1, "link": "https://www.sairamved.com/work/seen-unseen", "image": "https://static.wixstatic.com/media/d9647a_19d654623b4c42e094c3b6a71dd9189c~mv2.gif"}
   ],
   "links": [
     {"source": "Frondescence", "target": "COVID Bubbles", "value": 10},
@@ -17,8 +18,9 @@
     {"source": "COVID Bubbles", "target": "Grasping the Grid", "value": 8},
     {"source": "COVID Bubbles", "target": "Breaking Point: Human Population", "value": 8},
     {"source": "COVID Bubbles", "target": "Windows of Light", "value": 8},
-    {"source": "Windows of Light", "target": "Breaking Point: Human Population", "value": 5},
+    {"source": "Windows of Light", "target": "Breaking Point: Human Population", "value": 8},
     {"source": "Windows of Light", "target": "Viral Spiral", "value": 8},
-    {"source": "Viral Spiral", "target": "Grasping the Grid", "value": 10}
+    {"source": "Viral Spiral", "target": "Grasping the Grid", "value": 10},
+    {"source": "Seen-Unseen Symposium", "target": "Frondescence", "value": 5}
   ]
 }
