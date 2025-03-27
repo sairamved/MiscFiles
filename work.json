@@ -10,6 +10,7 @@
   ],
   "links": [
     {"source": "Frondescence", "target": "Breaking Point: Human Population", "value":10},
+    {"source": "Grasping the Grid", "target": "COVID Bubbles", "value":8},
     {"source": "Seen-Unseen Symposium", "target": "Frondescence", "value": 5}
   ]
 }
