@@ -6,7 +6,7 @@
     {"id": "COVID Bubbles", "group": 1, "link": "https://www.sairamved.com/work/covidbubbles", "image": "https://static.wixstatic.com/media/d9647a_6fe74ddeeb504fd8af36fc479e3ebb00~mv2.png"},
     {"id": "Breaking Point: Human Population", "link": "https://www.sairamved.com/work/breakingpoint", "group": 1, "image": "https://static.wixstatic.com/media/d9647a_b81d898a3fef48cbacca658e5572053b~mv2.gif"},
     {"id": "Viral Spiral", "group": 1, "link": "https://www.sairamved.com/work/viralspiral", "image": "https://static.wixstatic.com/media/d9647a_95b6aace63ad458cbaa86aa3abda0df6~mv2.png"},
-    {"id": "Seen-Unseen Symposium", "group": 1, "link": "https://www.sairamved.com/work/seen-unseen", "image": "https://static.wixstatic.com/media/d9647a_19d654623b4c42e094c3b6a71dd9189c~mv2.gif"}
+    {"id": "Seen-Unseen Symposium", "group": 1, "link": "https://www.sairamved.com/work/seen-unseen", "image": "https://static.wixstatic.com/media/d9647a_ce930d22ee224aca9992f5a788a845f7~mv2.gif"}
   ],
   "links": [
     {"source": "Frondescence", "target": "COVID Bubbles", "value": 10},
