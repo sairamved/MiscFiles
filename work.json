@@ -10,12 +10,6 @@
   ],
   "links": [
     {"source": "Frondescence", "target": "Breaking Point: Human Population", "value":10},
-    {"source": "Frondescence", "target": "Windows of Light", "value":10},
-    {"source": "COVID Bubbles", "target": "Grasping the Grid", "value": 8},
-    {"source": "COVID Bubbles", "target": "Breaking Point: Human Population", "value": 8},
-    {"source": "Windows of Light", "target": "Breaking Point: Human Population", "value": 8},
-    {"source": "Windows of Light", "target": "Viral Spiral", "value": 8},
-    {"source": "Viral Spiral", "target": "Grasping the Grid", "value": 10},
     {"source": "Seen-Unseen Symposium", "target": "Frondescence", "value": 5}
   ]
 }
